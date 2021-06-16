@@ -1,2 +1,4 @@
 test code for text 3
 Added test code for text3 ...
+modifying to check git diff command 
+Test for status -s
